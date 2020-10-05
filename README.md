@@ -5,7 +5,10 @@ This project and README file have been created on 01.10.2020
 Explore **US Bikeshare** data
 
 ### Description
-Describe what your project is about and what it does
+This project provides a Python script that takes raw input to create an interactive experience in the terminal to present descriptive statistics about bike share systems in some major US cities:
+* Chicago
+* New York City
+* Washington 
 
 ### Files used
 Include the files used
