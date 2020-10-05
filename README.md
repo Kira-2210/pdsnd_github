@@ -8,7 +8,10 @@ Explore **US Bikeshare** data
 This project provides a Python script that takes raw input to create an interactive experience in the terminal to present descriptive statistics about bike share systems in some major US cities:
 * Chicago
 * New York City
-* Washington 
+* Washington
+
+### Requirements
+The script in this project requires to have installed *Python*
 
 ### Files used
 Include the files used
