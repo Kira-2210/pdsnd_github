@@ -177,7 +177,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data_display(df):
-    """Displays raw data upon request."""
+    """Displays 5 rows of raw data upon request"""
 
     first_line = 0
     last_line = 5
