@@ -91,15 +91,15 @@ def time_stats(df):
 
     # display the most common month
     popular_month = df["month"].mode()[0]
-    print("\nMost common month:", popular_month)
+    print("\nMost common month: {}".format(popular_month))
 
     # display the most common day of week
     popular_day_of_week = df["day_of_week"].mode()[0]
-    print("\nMost common day of week:", popular_day_of_week)
+    print("\nMost common day of week: {}:".format(popular_day_of_week))
 
     # display the most common start hour
     popular_hour = df["hour"].mode()[0]
-    print("\nMost common start hour:", popular_hour)
+    print("\nMost common start hour: {}".format(popular_hour))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
@@ -177,7 +177,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data_display(df):
-    """Displays raw data upon request."""
+    """Displays 5 rows of raw data upon request"""
 
     first_line = 0
     last_line = 5
