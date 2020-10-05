@@ -12,9 +12,3 @@ This project provides a Python script that takes raw input to create an interact
 
 ### Requirements
 The script in this project requires to have installed *Python*
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
