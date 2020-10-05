@@ -2,7 +2,7 @@
 This project and README file have been created on 01.10.2020
 
 ### Project Title
-Replace the Project Title
+Explore **US Bikeshare** data
 
 ### Description
 Describe what your project is about and what it does
